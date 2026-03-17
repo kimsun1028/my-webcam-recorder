@@ -2,6 +2,12 @@
 
 This is a simple Python program made with OpenCV. It shows webcam video in real time, lets the user apply a few effects, and can record video.
 
+## Demo Video
+
+<video src="./example_video.mp4" controls width="640"></video>
+
+If the video player does not show on your browser, you can also open [example_video.mp4](./example_video.mp4) directly.
+
 ## Features
 
 - Show webcam video
@@ -14,7 +20,8 @@ This is a simple Python program made with OpenCV. It shows webcam video in real 
 ## Project Files
 
 - `WebcamRecorder.py`: main Python file
-- `example_video.avi`: example recorded video file included in this project
+- `example_video.avi`: original example recorded video file
+- `example_video.mp4`: browser-friendly demo video for the GitHub README
 
 ## Requirements
 
@@ -43,9 +50,9 @@ You only need to install OpenCV to run this project.
 
 ## Example Video
 
-This project also includes `example_video.avi` as a sample video file.
+This project includes `example_video.avi` as a sample recorded video file.
 
-You can use it to check what the recorded result looks like without running the program first.
+It also includes `example_video.mp4` so the sample video can be played more easily in the GitHub README.
 
 ## Simple Explanation
 
